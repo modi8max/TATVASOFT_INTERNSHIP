@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4_task_cpiplatform", "day4_task_cpiplatform\day4_task_cpiplatform.csproj", "{B42B7C36-FD03-41C6-938C-0E0468C82990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42B7C36-FD03-41C6-938C-0E0468C82990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42B7C36-FD03-41C6-938C-0E0468C82990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42B7C36-FD03-41C6-938C-0E0468C82990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42B7C36-FD03-41C6-938C-0E0468C82990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7445E0B5-5C50-4450-A2E8-6068124E36A3}
+	EndGlobalSection
+EndGlobal
