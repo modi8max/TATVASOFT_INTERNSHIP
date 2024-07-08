@@ -1,0 +1,5 @@
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.sourcelink.json
