@@ -19,7 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Dataa_Logic_Layer\Data_Logic_Layer.csproj" />
+    <ProjectReference Include="..\..\..\..\..\Downloads\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\Business_Logic_Layer\Business_Logic_Layer.csproj" />
+    <ProjectReference Include="..\..\..\..\..\Downloads\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\Data_Logic_Layer\Data_Logic_Layer.csproj" />
   </ItemGroup>
 
 </Project>
