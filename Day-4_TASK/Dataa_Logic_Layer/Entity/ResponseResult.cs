@@ -10,7 +10,7 @@ namespace Data_Logic_Layer.Entity
     {
         public Object Data { get; set; }
         public string Message { get; set; }
-        public ResponseStatus Result {  get; set; }
+        public ResponseStatus Result { get; set; }
     }
     public enum ResponseStatus
     {

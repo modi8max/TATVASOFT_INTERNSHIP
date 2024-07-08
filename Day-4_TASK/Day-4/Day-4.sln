@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-4", "Day-4.csproj", "{F00DFADC-22DD-4282-8394-02006D15C03B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Logic_Layer", "..\Dataa_Logic_Layer\Data_Logic_Layer.csproj", "{06437446-4329-442A-8878-AB4C858DFEC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Logic_Layer", "..\Dataa_Logic_Layer\Data_Logic_Layer.csproj", "{06437446-4329-442A-8878-AB4C858DFEC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business_Logic_Layer", "..\..\..\..\..\Downloads\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\Business_Logic_Layer\Business_Logic_Layer.csproj", "{50E453D1-CD0F-4CB6-A3A1-197998FE2A70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{06437446-4329-442A-8878-AB4C858DFEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06437446-4329-442A-8878-AB4C858DFEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06437446-4329-442A-8878-AB4C858DFEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E453D1-CD0F-4CB6-A3A1-197998FE2A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E453D1-CD0F-4CB6-A3A1-197998FE2A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E453D1-CD0F-4CB6-A3A1-197998FE2A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E453D1-CD0F-4CB6-A3A1-197998FE2A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
