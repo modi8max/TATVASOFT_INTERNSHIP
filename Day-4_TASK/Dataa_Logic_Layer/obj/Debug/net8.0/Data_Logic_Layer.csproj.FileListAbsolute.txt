@@ -1,0 +1,15 @@
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.deps.json
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.runtimeconfig.json
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfo.cs
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.sourcelink.json
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\refint\Data_Logic_Layer.dll
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.genruntimeconfig.cache
+C:\Users\Winner\Documents\GitHub\TATVASOFT_INTERNSHIP\Day-4_TASK\Dataa_Logic_Layer\obj\Debug\net8.0\ref\Data_Logic_Layer.dll
