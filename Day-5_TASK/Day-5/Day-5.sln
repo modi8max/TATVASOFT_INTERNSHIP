@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-5", "Day-5.csproj", "{10F56BA5-27CC-4DF1-9617-689FA4C6BCF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-5", "Day-5.csproj", "{10F56BA5-27CC-4DF1-9617-689FA4C6BCF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{63D602E6-C51A-405E-B2B8-3DA2DFB07E46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
