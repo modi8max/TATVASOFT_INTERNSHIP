@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Angular_VCProject",
+    "\\Angular_VCProject\\src",
+    "\\Angular_VCProject\\src\\app",
+    "\\Angular_VCProject\\src\\app\\admin-side",
+    "\\Angular_VCProject\\src\\app\\admin-side\\mission",
+    "\\Angular_VCProject\\src\\app\\admin-side\\mission\\update-mission",
+    "\\Angular_VCProject\\src\\app\\LoginRegister",
+    "\\Angular_VCProject\\src\\app\\LoginRegister\\register",
+    "\\Angular_VCProject\\src\\app\\model"
+  ],
+  "SelectedNode": "\\Angular_VCProject\\src\\app\\admin-side\\mission\\update-mission\\update-mission.component.html",
+  "PreviewInSolutionExplorer": false
+}
