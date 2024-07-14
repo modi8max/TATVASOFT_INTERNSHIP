@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A954461-F318-48A3-8CC8-71593D3B5B6B}|Business_logic_Layer\\Business_logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\winner\\downloads\\tatvasoft_internship_final_project-main\\tatvasoft_internship_final_project-main\\new_backend\\data_access_layer\\migrations\\20240712074504_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240712074504_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALLogin.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:35:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:04:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Business_logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Business_logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:04:02.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwIEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:03:21.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:02:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240712074504_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\Migrations\\20240712074504_initial.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240712074504_initial.cs",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\Data_Access_Layer\\Migrations\\20240712074504_initial.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240712074504_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:45:05.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Winner\\Downloads\\Tatvasoft_Internship_final_project-main\\Tatvasoft_Internship_final_project-main\\new_backend\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T07:28:54.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
